@@ -69,4 +69,4 @@ Having defined these variables, we can declare a Plotly graph by calling the `Pl
 Plotly.plot('chart-div', chartData, chartLayout)
 ```
 
-To practice using Plotly, see [exercise-1](exercise-1). Please note, the data used pertains to gun violence in the United States, and should be worked with and presented in a thoughtful and considerate fashion.
+To practice using Plotly, see [exercise-1](http://github.com/info474-s17/m11-plotly/tree/master/exercise-1). Please note, the data used pertains to gun violence in the United States, and should be worked with and presented in a thoughtful and considerate fashion.
